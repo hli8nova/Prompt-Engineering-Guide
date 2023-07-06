@@ -12,6 +12,8 @@ notebooks/.chroma/
 notebooks/.env
 .DS_Store
 .vscode
+*.pkl
+
 
 # app
 .next
