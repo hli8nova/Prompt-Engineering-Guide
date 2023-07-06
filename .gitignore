@@ -13,7 +13,7 @@ notebooks/.env
 .DS_Store
 .vscode
 *.pkl
-
+.chroma/
 
 # app
 .next
