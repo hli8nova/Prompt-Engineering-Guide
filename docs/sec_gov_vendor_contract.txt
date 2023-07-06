@@ -1,0 +1,1622 @@
+ EX-10.1 2 dex101.htm VENDOR SERVICES AGREEMENT
+
+Exhibit 10.1
+
+MICROSOFT VENDOR SERVICES AGREEMENT
+
+ 
+		
+PARTY #1 	   	“Microsoft”
+
+Business Name:
+	   	
+
+Microsoft Corporation
+
+Street Address:
+	   	
+
+One Microsoft Way
+
+City, State, Zip Code:
+	   	
+
+Redmond, WA 98052-6399
+
+Microsoft Business Contact:
+	   	
+
+Name:_****                                                             
+
+Email:_****                                                  
+
+ 
+PARTY #2 	   	“Vendor”
+
+MS Vendor Number
+	   	
+
+****
+
+Business Name:
+	   	
+
+Rainmaker Systems, Inc.
+
+Street Address:
+	   	
+
+1908 Kramer Lane, Suite B-300
+
+City, State, Zip Code:
+	   	
+
+Austin, TX
+
+Vendor Business Contact:
+	   	
+
+Name:****                                                                  
+
+Email:****                                                     
+
+ 
+
+Agreement Effective Date
+
+(“Effective Date”):
+	   	02/26/2010
+Term of Agreement  (“Term”): 	   	From Effective Date until terminated under Section 11 (Term of Agreement).
+
+List of Exhibits/Addenda:
+	   	Addendum – For the Provision of Contact Center Service; Exhibit A – Statement of Work; Exhibit B – Non-Disclosure Agreement; Exhibit C – Business Continuity Management (BCM) Framework; Exhibit D – Additional Vendor Obligations
+
+ 
+
+At all times during the Term, Vendor shall select one employee with authority to make binding decisions for Vendor with respect to the Agreement and any SOW.
+
+This Agreement contains the entire agreement between the parties with respect to the subject matter hereof and supersedes all oral understandings, representations, prior discussions, preliminary agreements, and the default terms of any Microsoft purchase order issued for Work. The terms of the Agreement shall apply to all Work Orders and Statements of Work between the parties. Any representations, warranties, promises or conditions not expressly contained herein or in a written work order or statement of work signed by both parties, shall not be binding upon the parties. This Agreement does not constitute an offer by Microsoft and it shall not be effective until signed by both parties.
+
+ 
+Vendor
+
+Signature:
+
+ 
+
+Print Name:
+
+Print Title:
+
+Date:
+
+ 
+Microsoft
+
+Signature:
+
+ 
+Print Name:
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 1
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Print Title:
+
+Date:
+
+CONTACT AND NOTICES INFORMATION
+
+Address for Notices. The parties must send legal notices, including notices relating to a breach or termination of this Agreement or a waiver of any right or obligation in this Agreement, to the address indicated in the Legal Notice Contact Information table below. Each party must notify the other in writing of any changes to the Legal Notice Contact Information. The parties must send any other communication required by this Agreement to the applicable business contact indicated in the Business Contact Information table below.
+
+Legal Notice Contact Information
+
+ 
+		
+Microsoft 	   	Vendor
+  	 
+
+Contact/Title:****
+
+Address: One Microsoft Way, Redmond, WA 98052
+
+Phone Number:****
+
+Fax Number:****
+
+Email Address:****
+
+ 
+	   	
+
+Contact/Title:****
+
+Address: 900 E Hamilton Ave Ste 400
+
+Phone Number:
+
+Fax Number ****
+
+Email Address: ****
+
+ 
+  	 
+
+With Copy To:
+
+ 
+
+Contact/Title: Legal & Corporate Affairs
+
+Address: One Microsoft Way, Redmond, WA 98052
+
+Fax Number:*****
+
+ 
+	   	
+
+With Copy To:
+
+ 
+
+Contact/Title: ****
+
+Address: 900 E Hamilton Ave Ste 400
+
+Fax Number: ****
+
+ 
+
+Notices must be in writing. Notices shall be deemed given on the day deposited in the United States mail (postage prepaid, certified or registered, return receipt requested) or sent by recognized national or international air express courier with charges prepaid.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 2
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+GENERAL TERMS AND CONDITIONS
+
+ 
+1) 	VENDOR OBLIGATIONS.
+
+(a) Vendor Performance of Work. Vendor agrees to provide services described in a Statement of Work (such services hereinafter referred to as “Work”) under the terms and conditions of, and in conformance with, this Agreement and any applicable Statements of Work (“SOW”). The precise scope of the Work, including specifications and time requirements, will be specified in applicable SOW(s). Microsoft and Vendor, or any of their respective Affiliates, can enter into SOWs, provided that Vendor’s Affiliates may not enter into a SOW without Microsoft’s prior authorization. An “Affiliate” is any legal entity that owns, is owned by, or is under common ownership with Vendor or Microsoft. Ownership means more than 50% ownership. Vendor is not obligated to provide any Work and Microsoft is not obligated to pay for any Work until a SOW has been fully executed by both parties. This Agreement does not obligate either party or its Affiliates to enter into any SOW(s).
+
+(b) Revisions to Work. Microsoft reserves the right, from time to time during the term of this Agreement, to expand, supplement, modify or reduce the scope of the Work under any SOW (a “Change”) upon written notice to Vendor and execution by both parties of documentation specifying such Change. In the event Microsoft requests a Change, the Parties will use reasonable efforts to agree in writing on necessary adjustments (if any) to the other terms of the applicable SOW necessary to accommodate the requested Change. Vendor agrees that it will cooperate in good faith with Microsoft in performing the Work as reasonably required by Microsoft, including any Changes requested by Microsoft. Notwithstanding the foregoing, Vendor shall not be obligated to work on a Change that results in a net expansion of the Work until the Parties have agreed in writing on such Change.
+
+(c) Reports. Vendor shall comply with all applicable time requirements in providing Microsoft with the reports specified in an applicable SOW (each a “Report”), and all other information, as mutually agreed by both parties, as requested by Microsoft from time to time with respect to all Work.
+
+(d) Performance Reviews. Upon Microsoft’s request or as specified in an applicable SOW, Vendor will meet with Microsoft to review Vendor’s performance and any issues related to Vendor’s compliance with the performance standards described in an applicable SOW.
+
+(e) Use of Microsoft Facilities and/or Equipment.
+
+(i) Microsoft Equipment. Vendor agrees that it shall not use any Microsoft facilities and/or equipment (including any equipment owned, leased or rented by Vendor for performing its obligations under this Agreement) to perform services for any person or entity other than Microsoft without Microsoft’s prior written consent. In the event Microsoft provides Vendor with equipment for use in performing the Work, Vendor agrees to assume the risk of loss for all such equipment while in its care, custody or control. Vendor shall take all reasonable precautions to protect the equipment against loss, damage, theft or disappearance while in its care, custody or control. In addition, Vendor shall take no actions which affect Microsoft’s title or interest in such equipment.
+
+(ii) Security and Compatibility. Vendor shall comply with all Microsoft physical and information security rules and requirements as may be modified from time to time at Microsoft’s sole discretion. Vendor shall ensure that its systems remain compatible with Microsoft’s systems as necessary to perform its obligations under this Agreement at Vendor’s sole expense.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 3
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(f) Vendor Agreement to Remove or Replace Employees Working on the Microsoft Account. Vendor agrees to promptly remove or replace any Vendor employee or Subcontractor (as defined in Section 3, Subcontracting of Work) at Microsoft’s request for any reasonable business reason.
+
+(g) Financial Information. Within ten (10) calendar days after Vendor learns that it has become or will become insolvent, Vendor shall submit financial statements to Microsoft in sufficient detail to allow Microsoft to determine whether Vendor shall be capable of continuing to perform its obligations hereunder.
+
+ 
+2) 	FEES AND PAYMENT TERMS.
+
+(a) Rates. Microsoft agrees to pay Vendor for the Work in accordance with the fee schedule as specifically stated in applicable SOW(s) (“Fees”). ****
+
+(b) Payment Terms. Upon receipt of a correct and undisputed invoice, Microsoft shall, at its option, pay the invoice net **** on the invoiced amount or net ****. Invoices submitted more than **** after completion of the related work shall be paid at Microsoft’s sole discretion.
+
+(c) MS Invoice. Vendor shall invoice Microsoft for all amounts due under this Agreement via the MS Invoice online tool, or other agreed upon tool or process, in accordance with the then-current requirements set forth at http://invoice.microsoft.com. Invoices shall not bear an invoice date earlier than the date on which Vendor shall be entitled to be paid under the applicable SOW, or if not specified in the applicable SOW, ****.
+
+(d) Payment Method. Payments by Microsoft shall be made according to Microsoft’s then-current payment policies, which may include payment via ACH electronic payment to Vendor’s financial institution pursuant to instructions supplied to Microsoft by Vendor in Microsoft’s ACH Electronic Payment form. In addition, ****.
+
+(e) Disputed Amounts. Microsoft may dispute any payable amount by notice to Vendor in writing within **** days of the date on Vendor’s invoice, specifying the reason for the dispute and the charges disputed (“Disputed Amounts”). Payment of an invoice without asserting a dispute is not a waiver of any claim or right. Failure by Microsoft to dispute any invoiced amount within the periods set forth above shall not be deemed a waiver of any claims that were unknown to Microsoft at the time.
+
+ 
+3) 	SUBCONTRACTING OF WORK.
+
+Vendor may subcontract all or any portion of the Work to a third party (“Subcontractor”) upon notice to Microsoft, except that Microsoft hereby consents to subcontracting with any entity that is a participant in good standing in the MSVP. With respect to use of a Subcontractor, Vendor shall comply with Exhibit D and the following conditions:
+
+(a) Vendor guarantees Subcontractor’s fulfillment of applicable Vendor obligations.
+
+(b) Vendor indemnifies Microsoft for all damages and costs of any kind, to the extent set forth in Section 7 (General Indemnification), incurred by Microsoft **** and caused by Subcontractor’s acts or omissions.
+
+(c) Vendor makes all payments to Subcontractor. Vendor shall indemnify Microsoft for all damages and costs of any kind, without limitation, incurred by Microsoft and caused by Vendor’s failure to pay a Subcontractor.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 4
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(d) Vendor shall not change Work Fees set forth in a SOW because of Vendor’s use of a Subcontractor.
+
+(e) Use commercially reasonable efforts to ensure that, of the total amount paid by Vendor to non-Affiliate Subcontractors operating in the United States to provide Products and/or Services under each SOW, Vendor shall spend at least ***** with Minority Owned and Operated Businesses and at least ***** with Women Owned and Operated Businesses. For purposes of this subsection: “Minority-Owned and Operated Businesses” means businesses which are at least fifty-one percent (51%) owned by a Minority Person or Persons or, in the case of any publicly owned business, at least fifty-one percent (51%) of the stock of which is owned by a Minority Person or Persons, and whose management and daily business operations are controlled by one or more of the same Minority Person or Persons having ownership interest. “Minority Person or Persons” means one or more individuals who is/are USA citizens residing in the United States and (a) African-American/Black, (b) Hispanic, (c) Asian-American/Pacific Islander (including native Hawaiians), (d) Asian Indian, and/or (e) Native American/American Indian (enrolled in a federally recognized tribe). “Women-Owned and Operated Businesses” means businesses which are at least fifty-one percent (51%) owned by one or more women residing in the United States, or, in the case of any publicly owned business, at least fifty-one percent (51%) of the stock of which is owned by one or more women residing in the United States, and whose management and daily business operations are controlled by one or more of the same women having ownership interest.
+
+ 
+4) 	CONFIDENTIALITY.
+
+(a) General. The terms of the Microsoft Non-Disclosure Agreement attached hereto as Exhibit B (the “NDA”) shall govern all disclosures of Confidential Information (as such term is defined in the NDA) between the parties. The existence of and terms and conditions of this Agreement and any Microsoft Information shall be considered Confidential Information under the NDA. Microsoft Information shall mean all information provided by Microsoft to Vendor in accordance with the terms of this Agreement and any information obtained or created by Vendor in providing the Work, including, without limitation any information found in any Report provided by Vendor to Microsoft, any correspondence between Microsoft and Vendor, including without limitation e-mail transmissions, and any Microsoft customer lists, and updates, identification information (including, without limitation, all customer information and personal information of any variety acquired by Vendor pursuant to this Agreement or in connection with the performance of the Work and regardless of the source; transactional, sales and activity information; and customer profile information (all of the foregoing collectively “Customer Information”)). However, Microsoft will have the right to compile and use statistical analyses and reports utilizing aggregated data derived from Vendor information and data and other sources, for Microsoft’s internal business purposes.
+
+(b) Privacy and Data Protection. For the purposes of this Section, “Personal Information” means any information provided by Microsoft or collected by Vendor in connection with this Agreement (i) that identifies or can be used to identify, contact, or locate the person to whom such information pertains, or (ii) from which identification or contact information of an individual person can be derived. Personal Information includes, but is not limited to: name, address, phone number, fax number, email address, social security number or other government-issued identifier, and credit card information. Additionally, to the extent any other information (such as, but not necessarily limited to, a personal profile, unique identifier, biometric information, and/or IP address) is associated or combined with Personal Information, then such information also will be considered Personal Information.
+
+Any Personal Information collected or accessed by Vendor in the performance of the Work in accordance with this Agreement shall be limited to that which is strictly necessary to perform such Work or to fulfill any legal requirements. If the Work involves the collection of Personal Information directly from individuals, such as through a webpage, Vendor will provide a clear and conspicuous notice regarding the uses of the
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 5
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Personal Information. Such notice will comply with all relevant guidelines contained at http://members.microsoft.com/vendorguide or as otherwise provided by Microsoft.
+
+Vendor shall use such Personal Information only as necessary to perform the Work in accordance with this Agreement and not for any other purpose whatsoever. Vendor shall maintain such Personal Information in strict confidence in accordance with the provisions of Section 4(a) hereof. Vendor will not share any Personal Information that is collected or possessed by Vendor with any third parties for any reason except as necessary to carry out the Work, and only under terms and conditions of Section 3 (Subcontracting of Work). If Vendor is served with a court order compelling disclosure of any Personal Information or with notice of proceedings for such an order, Vendor will oppose the order, will notify Microsoft of such order or notice, and will provide Microsoft the opportunity to intervene before Vendor files any response to the order.
+
+Vendor will take reasonable steps to protect Personal Information in Vendor’s possession from unauthorized use, access, disclosure, alteration or destruction. Security measures shall include access controls, encryption or other means, where appropriate. Vendor must immediately notify Microsoft of any known security breach that may result in the unauthorized use, access, disclosure, alteration or destruction of Personal Information. Vendor agrees to conduct an audit on at least an annual basis to evaluate the security of Personal Information in Vendor’s possession and to verify that the terms of this Agreement with respect to Personal Information are being followed. The results of such audit shall be made available to Microsoft upon request.
+
+Upon request from Microsoft, Vendor shall provide Microsoft with any or all Personal Information in Vendor’s possession. Upon termination or expiration of this Agreement, Vendor shall within ten (10) calendar days thereafter, at Microsoft’s sole discretion either (i) provide Microsoft with all documents and materials (including any and all copies) containing Personal Information, together with all other materials and property of Microsoft, which are in its possession or under its control or (ii) destroy all such specified documents and materials (including any and all copies in any and all formats) and provide Microsoft with a certificate of destruction signed by an officer of Vendor.
+
+(c) Credit Card Information Compliance. Vendor, its affiliates and their respective subcontractors, as applicable, shall at all times comply, at its own cost, with the PCI Data Security Standards (PCI DSS) requirements for any work involving cardholder data as prescribed by the PCI Security Standards Council as the same may be amended from time to time.
+
+Copies of current PCI DSS documentation are available on the PCI Security Standards Council website at: https://www.pcisecuritystandards.org/
+
+ 
+5) 	OWNERSHIP AND LICENSE.
+
+(a) Commissioned work. The Work has been specially ordered and commissioned by Microsoft, and Vendor agrees that the Work is a “work made for hire” for copyright purposes, all copyrights and any other intellectual property rights in the Work shall be owned by Microsoft. As such, Vendor will promptly disclose to Microsoft, in writing, any and all inventions, works of authorship, improvements, developments, or discoveries conceived, authored, made or reduced to practice by Vendor or its Affiliate, either solely or in collaboration with others, including personnel of Vendor and its Affiliates (if any), in the course of and in connection with performing under a SOW, or otherwise based upon confidential information of Microsoft or Microsoft Customers
+
+(b) Assignment. Vendor hereby irrevocably assigns without reservation to Microsoft and its successors all rights, title and interest (now known or hereafter created or recognized) in and to the Work, including, without limitation, the following:
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 6
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(i) any copyrights, moral rights or any other proprietary rights (whether or not registerable and including any application for the registration of any such rights) that Vendor may possess or acquire in the Work throughout the world, and any renewals or extensions of such rights, regardless of whether or not legal protection for the Work is sought;
+
+(ii) all rights in and to any inventions, ideas, designs, concepts, techniques, discoveries, or improvements, whether or not patentable, embodied in the Work or developed in the course of Vendor’s creation of the Work, including but not limited to all trade secrets, utility and design patent rights and equivalent rights in and to such inventions and designs throughout the world, and any renewals or extensions of such rights, regardless of whether or not legal protection for the Work is sought; and
+
+(iii) any documents, magnetically or optically encoded media, or other materials created by Vendor under a SOW.
+
+To the extent moral rights in the Work cannot be assigned, Vendor agrees to assert moral rights or procure the assertion (as the case may be) of such rights by the authors of the Work at Microsoft’s sole direction and discretion. Vendor waives any moral rights of Vendor in and to the Work and agrees to use reasonable efforts to obtain from each person that contributes to the Work an irrevocable, perpetual and worldwide waiver in writing stated to be in favor of Microsoft and its successors, assigns and licensees of all present and future moral rights he/she may have in or to the Work. The waiver referred to in the preceding sentence shall be in a form acceptable to Microsoft and shall be delivered by Vendor to Microsoft upon request.
+
+Vendor grants (except with respect to third party materials) a non-exclusive, perpetual (without regard to any termination), irrevocable, worldwide, fully paid-up, assignable and transferable license under any current and future patents owned or licensable by Vendor, including any renewals or extensions thereof, to the extent necessary for Microsoft or its third party licensees to make, use, modify, license, sell, sublicense, distribute, or market the Work, or otherwise realize the benefits contemplated hereunder, including the right to further sublicense such rights to third parties.
+
+(c) Pre-Existing Materials. Notwithstanding anything to the contrary in this Agreement, Vendor shall retain full title and ownership rights in and to any computer program, code, techniques, processes (including utility and design rights), copyrights, trade secrets, moral rights and any materials developed by or for Vendor, including any developments and derivative works thereto made independently of this Agreement or SOW (“Pre-Existing Materials”) which may be used or provided in the performance of the Work hereunder as set forth in this Agreement or any SOW. Vendor hereby grants Microsoft a non-exclusive, perpetual, world-wide, fully paid-up license, under Vendor’s applicable current and future intellectual property and proprietary rights: ****. All other rights in the Pre-Existing Materials are reserved by Vendor.
+
+(d) Databases. If Vendor creates and uses a database as part of the Work (“Database”), Microsoft will own the data entered into that Database. Vendor will own any Pre-Existing Materials subsisting in the Database.
+
+****
+
+(e) Third Party Materials. Vendor shall not use any third party software or other materials to perform Work without Microsoft’s prior express written consent. Vendor shall provide Microsoft with the license terms or other agreements that govern the use of such Materials to the extent available or applicable that Vendor wants to use, and shall abide by them when performing Work.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 7
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(f) Open Source License Restrictions. Vendor will ensure that no Deliverables, and no Vendor IP or other IP licensed to Microsoft are governed, in whole or in part, by any license requiring, as a condition of use, modification and/or distribution of software subject to the license, that the software and/or software combined and/or distributed with the software be:
+
+(i) Disclosed or distributed in source code form;
+
+(ii) Licensed for the purpose of making derivative works; or
+
+(iii) Redistributable at no charge
+
+For the purpose of clarity, nothing in this section prohibits Vendor from using Open Source licensed materials in connection with providing services or Work under this Agreement.
+
+(g) Further Assistance. At Microsoft’s expense, Vendor shall execute and deliver such instruments and take such other action as may be requested by Microsoft to perfect or protect Microsoft’s rights in the Work and to carry out the assignments set forth in this Section 5.
+
+(h) License of Microsoft Materials. Except as otherwise provided in an Addendum to this Agreement or an applicable SOW, during the term of the applicable SOW, Microsoft grants to Vendor a temporary, limited, non-exclusive license to use, reproduce and modify its computer programs, code or materials in the form provided to Vendor during the term of an applicable SOW, provided such use, reproduction and modification is solely for purposes of performing of the Work.
+
+ 
+6) 	WARRANTIES AND REPRESENTATIONS.
+
+(a) By Vendor. Vendor represents and warrants to Microsoft as follows:
+
+(i) Vendor has full right and power to enter into and perform according to the terms of this Agreement, and that such performance shall not violate any agreement or other obligation between Vendor and any third party.
+
+(ii) The Work provided, including any portion performed by any Subcontractor, shall strictly comply with the terms and conditions of this Agreement.
+
+(iii) Vendor shall, while on Microsoft property or while performing the Work, take all required actions and comply with, and cause its employees, Subcontractors and agents to comply with, all applicable laws and regulations applicable to its performance hereunder, including without limitation, the employment, workman’s compensation, immigration, tax and export control laws of any jurisdiction in which Work is performed.
+
+(iv) The Work shall not infringe or violate any patent, copyright, trademark, trade secret or other proprietary right of a third party and shall either be originally created by Vendor or Vendor shall obtain all necessary rights to the Work to transfer ownership to Microsoft as required by Section 5 (Ownership and License).
+
+(v) Vendor represents that any software in its possession, including any Microsoft software, is properly licensed for use.
+
+(b) By Microsoft. Microsoft hereby represents and warrants to Vendor that it has the full right to enter into and perform according to the terms of this Agreement.
+
+ 
+7) 	GENERAL INDEMNIFICATION.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 8
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(a) Vendor agrees to defend, indemnify and hold Microsoft, and its subsidiaries, affiliates, directors, officers, employees and agents (“Indemnified Parties”) harmless from and against all claims, damages, losses, suits, actions, demands, proceedings, expenses, and liabilities of any kind, (including reasonable attorneys’ fees incurred and/or those necessary to successfully establish the right to indemnification) threatened, asserted or filed (collectively, “Claims”) against any Microsoft Indemnified Party, to the extent that in providing the Work such Claims arise out of or relate to (i) bodily injury or death to any person, (ii) loss, disappearance, or damage to property, (iii) any breach or alleged breach of any warranty or representation made by Vendor in this Agreement, (iv) the infringement or violation of any patent, copyright, trademark, trade secret or other proprietary right of a third party and/or (v) any act or omission to act of Vendor, its Subcontractors, or agents, except to the comparative extent that such Claims result from the negligent or willful acts of Microsoft.
+
+(b) If any action is brought against any Microsoft Indemnified Party in which indemnity is sought from Vendor, Microsoft shall (i) provide Vendor reasonably prompt notice of any such Claim; (ii) permit Vendor, through counsel mutually acceptable to Microsoft and Vendor, to answer and defend such Claim; and (iii) provide Vendor information and reasonable assistance at Vendor’s expense to help Vendor to defend such Claim.
+
+(c) Microsoft shall have the right to employ separate counsel and participate in the defense of any Claim at its own expense. Vendor shall reimburse Microsoft for any payments made or losses suffered based upon the judgment of any court of competent jurisdiction or pursuant to a bona fide compromise or settlement of Claims. Vendor shall not settle any Claim on Microsoft’s behalf without first obtaining Microsoft’s written permission.
+
+(d) Should the Work (or any portion thereof) be held to constitute an infringement, Vendor shall notify Microsoft and immediately, at Vendor’s expense: (i) procure for Microsoft the right to continue use, sale, and/or marketing of the Work (or any portion thereof) or (ii) replace or modify the Work (or any portion thereof) such that it is non-infringing, provided that the replacement or modification meets the requirements of this Agreement to Microsoft’s satisfaction. If (i) or (ii) are not possible, in addition to any damages or expenses reimbursed under this Section, Microsoft shall have the right to terminate this Agreement and Vendor shall pay to Microsoft all costs associated with transitioning the Work to a new vendor.
+
+8) LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMMISSIBLE BY LAW, NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR SPECIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE) INCURRED BY THAT PARTY AS A RESULT OF ANY BREACH OF THIS AGREEMENT. THESE LIMITATIONS SHALL APPLY REGARDLESS OF THE FORM OF ACTION, WHETHER UNDER STATUTE, UNDER EQUITY, OR IN CONTRACT OR TORT, INCLUDING NEGLIGENCE, OR ANY OTHER FORM OF ACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THIS SECTION SHALL HAVE NO EFFECT UPON, AND SHALL NOT LIMIT LIABILITY FOR ANY CLAIMS, LOSSES OR DAMAGES FOR BREACH OF SECTIONS 4 (CONFIDENTIALITY), 5 (OWNERSHIP & LICENSE), 6 (WARRANTIES & REPRESENTATIONS), 7 (GENERAL INDEMNIFICATION), AND 13 (PUBLICITY & MICROSOFT TRADEMARKS).
+
+9) INSURANCE. Vendor shall comply with the additional terms regarding insurance for Work as set forth in the Exhibit D: Additional Vendor Obligations, Article 2: Insurance Requirements.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 9
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+10) TAXES. Microsoft is not liable for any taxes that Vendor is legally obligated to pay and which are incurred or arise in connection with the sale of Products and Services. All taxes (including but not limited to net income or gross receipts taxes, franchise taxes, and property taxes) shall be Vendor’s financial responsibility. Microsoft shall pay Vendor any sales or use taxes owed by Microsoft solely as a result of entering into this Agreement or a subsequent SOW and which are required to be collected from Microsoft by Vendor under applicable law. Microsoft may provide Vendor with a valid exemption certificate, and Vendor shall not collect taxes covered by the certificate. Vendor shall indemnify, defend and hold Microsoft harmless from any taxes (including sales or use taxes paid by Microsoft) or claims, causes of action, costs (including without limitation, reasonable attorneys’ fees) and any other liabilities of any nature whatsoever related to taxes. If taxes are required to be withheld on any amount to be paid by Microsoft to Vendor, Microsoft will deduct them from the amount owed and pay them to the appropriate taxing authority. At Vendor’s written request and expense, Microsoft will use reasonable efforts to assist Vendor in obtaining tax certificates or other documentation evidencing such payment, but the responsibility for documentation remains with Vendor. For services delivered outside the United Sates, Microsoft shall specify tax rates for Microsoft products and/or services sold by Vendor acting on Microsoft’s behalf in connection with Vendor providing services in each applicable country outside the United States. Vendor will collect tax on behalf of Microsoft, at Microsoft’s written request, and remit collected tax to Microsoft. Microsoft is responsible for remitting the tax to the appropriate taxing authorities. This Section shall govern the treatment of all taxes arising in connection with this Agreement notwithstanding any other section of this Agreement.
+
+ 
+11) 	TERM OF AGREEMENT; DEFAULT.
+
+(a) Duration. Subject to Section 11(b) hereof, the period of time during which this Agreement shall be in effect (“Term”) commences on the Effective Date and shall continue for a period of three (3) years thereafter.
+
+(b) Early Termination and Default. The Term is subject to early termination of the Agreement in accordance with the following:
+
+(i) Either Party shall have the right to terminate this Agreement immediately upon a Default under Section 11(b)(ii)(A). Vendor may terminate this Agreement upon a Default under Section 11(b)(ii)(B), if the default has not been cured within five (5) business days after the non-defaulting Party provides notice to the defaulting Party describing the Default(s) in reasonable detail. Either Party may terminate this Agreement or any SOW upon a Default by either Party in accordance with Section 11(b)(ii)(C).
+
+(ii) Each of the following is a Default:
+
+(A) Vendor’s or Microsoft’s failure to comply with a provision of Sections 4(a), 4(b) or 15(e);
+
+(B) Microsoft’s failure to pay the Fees (excluding Disputed Amounts) as required under Section 2 (Fees and Payment Terms) of this Agreement; and
+
+(C) The failure of either Party to perform any of the Party’s obligations contained in this Agreement, which failure has not been cured within thirty (30) calendar days after the non-defaulting Party provides notice to the defaulting Party describing the Default(s) in reasonable detail. This right of cure shall not apply to Defaults described in Sections 11(b)(ii)(A) or (B) above.
+
+(iii) Microsoft may elect to terminate this Agreement during the Term without cause or without the occurrence of a Default, which termination shall be effective **** days after such notice. *****
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 10
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(c) Effect of Termination and Survival. Notwithstanding expiration or termination of this Agreement, Microsoft shall pay to Vendor all Fees earned prior to expiration or termination ****. In addition, within **** days from the date of expiration or termination, each Vendor shall:
+
+(i) return all data derived from Work performed under this Agreement, to Microsoft; and
+
+(ii) at Microsoft’s sole discretion either (x) provide Microsoft with all documents and materials (including any and all copies) containing Customer Information, together with all other materials and property of Microsoft, which are in its possession or under its control or (y) destroy all such specified documents and materials (including any and all copies in any and all formats) and provide Microsoft with a certificate of destruction signed by an officer of Vendor; and
+
+(iii) at Microsoft’s sole discretion either (x) return any Microsoft Confidential Information or property or (y) destroy all such specified documents and materials (including any and all copies in any and all formats) and provide Microsoft with a certificate of destruction signed by an officer of Vendor.
+
+The terms and conditions of Sections 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 15(b) will survive any termination or expiration of this Agreement.
+
+(d) Transition of Work. In the event of termination, Vendor will make its staff available to assist with the transition of the Work to the successor vendor. Vendor will be compensated based on mutually agreeable rates for these transition services not to exceed the pricing described in the applicable SOW for comparable services or, if the transition services are not comparable to services described in the applicable SOW, as mutually agreeable by the parties.
+
+ 
+12) 	RECORDS AND AUDIT.
+
+(a) During the term of this Agreement and for **** years thereafter, Vendor agrees to keep all usual and proper records and books of account and all usual and proper entries relating to its costs and expenses, and quality and performance reports in providing the Work. Also, during the above referenced period, Microsoft shall have the right to cause an audit and/or inspection to be made of the applicable Vendor records and facilities in order to verify statements issued by Vendor and Vendor’s compliance with the terms of this Agreement. Any such audit shall be conducted by Microsoft corporate internal auditors or an independent certified public accountant selected by Microsoft. Except as specified herein, Microsoft shall be responsible for all costs and attorney fees related to such audits. Vendor agrees to provide Microsoft’s designated audit or inspection team access to the relevant Vendor records and facilities. If an audit reveals that Vendor has overcharged Microsoft by **** or more of the amounts due for any audited period of time, Vendor agrees, in addition to recalculating and making immediate payment to Microsoft of all overpayments, ****, based on the actual and true amounts due and owing, to pay Microsoft all reasonable costs and expenses incurred by Microsoft in conducting such audit, including, but not limited to, any amounts paid to any auditor or attorney.
+
+(b) Licensing. Vendor must keep records relating to the licensing of the Microsoft software in its possession and use. Microsoft has the right to conduct an audit of Vendor or any Vendor Affiliate performing services under this Agreement to verify Vendor or its Affiliate’s licensing of Microsoft software using an independent accountant from a nationally recognized public accounting firm, which will be subject to a confidentiality obligation. Any such audit will take place upon not fewer than **** calendar days’ notice, during normal business hours and in a manner that does not interfere unreasonably with Vendor’s operations. As an alternative, Microsoft may require Vendor and/or its Affiliates(s) performing services under this Agreement to accurately complete a Microsoft self-audit questionnaire. If verification
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 11
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+or self-audit reveals either Vendor’s or its Affiliates’ unlicensed use of Microsoft software, Vendor and/or its Affiliate(s) must promptly obtain sufficient licenses for all Microsoft software usage disclosed. If material unlicensed use is identified (defined as a license shortage of **** or more), Vendor and/or its Affiliate (as applicable) must reimburse Microsoft for the reasonable costs incurred in verification and acquire the necessary additional licenses within **** days. If Microsoft undertakes such verification and does not find material unlicensed use of its software, Microsoft will not undertake another verification of Vendor for at least one year. Microsoft and its auditors will use the information obtained in compliance verification only to enforce Microsoft’s rights and to determine whether Vendor and/or any Vendor Affiliate providing services under this Agreement is in compliance with the terms of the applicable software license agreement and the terms of this Agreement. By invoking the rights and procedures described above, Microsoft does not waive its rights to enforce the Agreement (including any license agreement or statement of work incorporating these terms) or to protect Microsoft’s intellectual property by any other means permitted by law.
+
+(c) Compliance with Sarbanes-Oxley Act. Vendor shall maintain, at Microsoft’s cost, any documentation required and specified by Microsoft in connection with the United States Sarbanes-Oxley Act of 2002.
+
+13) PUBLICITY AND MICROSOFT TRADEMARKS. **** Any permitted use of Microsoft trademarks under this Agreement must adhere to Microsoft’s then-current brand usage guidelines.
+
+14) FORCE MAJEURE. If Vendor is or expects to be unable to perform Work as required by a SOW due to a condition or cause beyond Vendor’s reasonable control (such as natural disasters, riot, war, terrorist attack, or acts of a government authority) for **** or more, Vendor shall immediately notify Microsoft of the situation, via email, telephone, facsimile transmission or other means to the Microsoft Vendor Accounting Manager identified on the cover page of the Agreement and/or to the Microsoft business group contact for the SOW
+
+ 
+15) 	OTHER PROVISIONS.
+
+(a) Relationship of Parties; Non-exclusivity. This Agreement is only intended to create an independent contractor relationship between Vendor and Microsoft. Under no circumstance shall one Party’s employees be construed to be employees of the other Party. Vendor further agrees to be responsible for all of Vendor’s federal and state taxes, withholding, social security, insurance and other benefits. Upon request, Vendor shall provide Microsoft with satisfactory proof of independent contractor status, if applicable. The parties agree that nothing contained in this Agreement or any SOW shall be construed as creating an exclusive relationship between the parties.
+
+(b) Governing Law; Attorneys’ Fees. This Agreement shall be governed by the laws of the State of **** and Vendor consents to jurisdiction and venue in the state and federal courts sitting in ****. Vendor waives all defenses of lack of personal jurisdiction and forum non conveniens. Process may be served on either Party in the manner authorized to enforce by applicable law or court rule. If either Microsoft or Vendor employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing Party shall be entitled to recover its costs, including reasonable attorneys’ fees.
+
+(c) No Inadvertent Waiver. Failure of any Party to exercise its rights under this Agreement shall not be construed as a waiver thereof and shall not prevent said Party from thereafter enforcing strict compliance with any of the terms thereof.
+
+(d) Binding Nature. This Agreement shall inure to and bind all successors, assigns, receivers and trustees of the respective parties hereto.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 12
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(e) No Assignment. Each Party acknowledges and covenants that it shall not sell, assign, transfer, pledge or encumber any of its rights or delegate any of its duties or obligations under this Agreement (by actual assignment or by operation of law, including without limitation through a merger, acquisition, consolidation, exchange of shares, or sale or other disposition of assets, including disposition on dissolution), without the prior written consent of the other Party, which consent shall not be unreasonably withheld. Notwithstanding anything to the contrary herein, Microsoft may assign this Agreement to any of its subsidiaries.
+
+(f) Severability. If any court or governmental authority should determine that any clause or provision contained herein are improper, unenforceable or violates any rule, regulation, policy or statute, then that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties, and to the extent such provision or provisions shall be reformed without further action by the parties hereto and only to the extent necessary to make such provision or provisions valid and enforceable when applied to such particular facts and circumstances and the remainder of this Agreement shall continue in full force and effect.
+
+(g) Amendment. This Agreement may be amended only in written agreement signed by all parties, except that Microsoft reserves the right to unilaterally modify Exhibit D: Additional Vendor Obligations and its physical and information security policies as it deems necessary from time to time and Vendor agrees to comply with all such modifications.
+
+(h) Existing Statements of Work. As of the Effective Date of this Agreement, any outstanding services or SOWs provided under an expired or pre-existing Vendor Services Agreement, executed between the parties, shall be governed by the terms and conditions of this Agreement and shall supersede and replace any such expired or pre-existing agreements.
+
+(i) Microsoft Corporation and Affiliates – Third Party Beneficiaries. Vendor acknowledges and agrees that the benefit of certain of the Clauses of this Agreement are expressed to be not only for the benefit of Microsoft but also for the benefit of Microsoft Corporation, Affiliates of Microsoft Corporation and/or licensors of Microsoft Corporation. Vendor acknowledges that each and any of the foregoing shall be entitled in its or their own right to require by Vendor the due performance of each such provision as aforesaid and to this end, that Microsoft is entering into this Agreement not only in its own right, but also as an agent and trustee for each of Microsoft Corporation, its Affiliates and/or licensors of Microsoft Corporation, provided always that any action to enforce the rights or privileges of such parties under or in connection with this Agreement or the Services (other than for an injunction, temporary restraining order or other similar equitable relief required to enforce the terms of this Agreement, or to preserve the rights of such party in accordance with applicable statutory or equivalent limitation periods) shall be instituted and prosecuted by Microsoft on their behalf.
+
+(j) Compliance with Laws. Both Parties shall comply with all federal, state, country and local laws, order, rules, ordinances, regulations and codes, including but not limited to those related to privacy and data
+
+ 
+16) 	ADDENDUMS AND EXHIBITS.
+
+The following addendums and exhibits, as amended from time to time, are incorporated into this Agreement by reference:
+
+Addendum for the Provision of Contact Center Services
+
+Exhibit A: Statement(s) of Work
+
+Exhibit B: Microsoft Corporation Non-Disclosure Agreement
+
+Exhibit C: Business Continuity Management (BCM) Framework
+
+Exhibit D: Additional Vendor Obligations
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 13
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+17) ENTIRE AGREEMENT. This Agreement contains the entire agreement between the parties with respect to the subject matter hereof and supersedes all oral understandings, representations, prior discussions and preliminary agreements. Any representations, warranties, promise or conditions not expressly contained in this Agreement shall not be binding upon the parties. This agreement does not constitute an offer by Microsoft and it shall not be effective until signed by both parties.
+
+ 
+				
+
+ 
+
+Vendor Services Agreement (v2.9b 10-30-09)
+
+DealPoint Entry ID [enter number]
+	  	
+
+ 
+
+Page 14
+	  	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+ADDENDUM FOR THE PROVISION OF CONTACT CENTER SERVICES
+
+This Addendum for the Provision of Contact Center Services (“Addendum”) is made pursuant to the Vendor Services Agreement by and between Microsoft Corporation and Rainmaker Systems, Inc. (the “Agreement”). The terms of this Addendum are incorporated into the Agreement by this reference. Any terms not otherwise defined herein will assume the meanings set forth in the Agreement.
+
+ 
+1) 	FACILITIES.
+
+At all times during the Term, Vendor shall maintain and use, at its own risk, all equipment (except telecommunications equipment described below), services and software necessary to efficiently and accurately provide the Work at the facilities specified under any applicable SOW (“Facilities”), and shall be responsible for all costs associated therewith. At all times during the Term, Microsoft will be responsible for the provision and maintenance of any telecommunications equipment necessary to reroute customer calls from Microsoft to a mutually agreed demarcation point as defined in the applicable SOW, including all costs associated therewith.
+
+ 
+2) 	BUSINESS CONTINUITY MANAGEMENT.
+
+Vendor agrees to create, implement and maintain a documented Business Continuity Management (BCM) Framework to provide a comprehensive and structured response capability that caters for planned and unplanned interruption events. In the circumstances that Vendor experiences a disruption (interruption event) in Vendor’s ability to provide the Work, or Vendor’s Facilities are incapacitated for any reason, Vendor shall immediately notify Microsoft and implement Vendor’s appropriate Business Continuity Plan (BCP) for the applicable Statement of Work (SOW).
+
+Microsoft expects each site to be governed by the overall Business Continuity Management Framework, as outlined in the annexed Exhibit C
+
+Microsoft reserves the right to suspend this Agreement, at its discretion, until performance of the Work can be resumed. Microsoft may redirect incidents during any time in which Vendor is unable to perform the Work due to a disruption, and deduct from applicable Fees, any costs or expenses that Microsoft incurs as a result of redirecting incidents.
+
+ 
+3) 	TRAINING.
+
+(a) General. Vendor is responsible for ensuring that all Vendor agents engaged in performing the Work (“Support Professionals”) successfully complete all training programs specified by Microsoft in any SOW. At all times during the Term of this Agreement, Vendor shall ensure that each Support Professional is capable of responding to customer calls regarding each Microsoft product offering (“Product”) for which the Vendor is currently providing Work. Vendor Support Professionals must take and successfully pass both pre- and post training tests provided to Vendor by Microsoft to measure training effectiveness. Vendor shall be responsible for administering the tests and reporting test results to Microsoft.
+
+(b) Trainers. Vendor will designate trainers for each Product supported to receive Microsoft provided train-the-trainer instruction. Trainers shall participate in all train-the-trainer events that Microsoft, in its sole discretion, deems necessary. The required number of Vendor designated trainers shall be set forth in applicable SOW(s).
+
+ 
+				
+
+ 
+
+Contact Center Addendum (v2.8 _2008)
+
+DealPoint Entry ID [enter number]
+	   	
+
+ 
+
+Page 1
+	   	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(c) Cost of Training. Microsoft will not be charged for any of the Work provided by any new hire until the individual has completed the required number of hours of Vendor provided training as specified in the applicable SOW and has demonstrated the ability to provide the Work as measured by the knowledge and performance tests, as specified in the applicable SOW. Microsoft may conduct random quality checks on any training materials and any courses developed by Vendor. Except as otherwise agreed upon by the Parties in writing or as set forth in any SOW, all training required by this Agreement shall be at the Vendor’s sole cost and expense, including without limitation all labor, travel, and out-of-pocket costs.
+
+(d) Training Materials. Where Microsoft provides training materials to Vendor, all training shall be conducted using such training materials and Vendor shall not modify, supplement or replace the training materials with Vendor or third party developed materials without Microsoft’s prior written consent. Microsoft hereby grants Vendor a world-wide, non-exclusive, personal, non-transferable, non-assignable, limited, royalty-free license during the term of this Agreement to reproduce any training materials provided by Microsoft to Vendor only for Vendor’s internal use for the purpose of providing the training required under this Agreement. Training materials provided by Microsoft to Vendor are Microsoft Confidential Information.
+
+ 
+4) 	SECURITY OBLIGATIONS
+
+(a) Physical Security.
+
+(i) Isolated Space. On a project by project basis, as designated by Microsoft, and unless otherwise agreed between the Parties, the computers used to provide the Work must be located in one or more non-public rooms with access through lockable doors only and the doors should be locked at all times.
+
+(ii) Controlled Access. On a project by project basis, as designated by Microsoft, access to the room containing the computers used to provide the Work shall be granted only to those persons performing the Work or supporting the performance of the Work under this Agreement. Access to the Facilities must be controlled with individual-specific (e.g. Cardkey) or combination (e.g. Cipher) locking mechanisms.
+
+(b) Computer Security. Password Protected Screensavers: All workstations connected to the LAN and used for the purpose of providing the Work and which gives visibility to confidential Microsoft customer records (the “Support LAN”) must have a password protected screensaver set to enable after five (5) minutes of idle time. All users must log out when they leave a machine for the day or for an extended period. Passwords must be changed at a maximum interval of ninety (90) calendar days and passwords cannot be reused. Passwords must be at least seven characters long, not contain any part of the individual’s name or email name, and contain characters from at least three of the following four classes: (i) English upper case letters, (ii) English lower case letters, (iii) westernized Arabic numerals, and (iv) non-alphanumeric special characters.
+
+(c) Network Security. On a project by project basis, as designated by Microsoft, Vendor will isolate (either electronically or physically) the Support LAN from other LANs maintained by the Vendor. Vendor shall restrict use of the Support LAN solely to Vendor employees providing Work under this Agreement. Vendor agrees to notify Microsoft promptly upon discovery of any breach of security in the Support LAN, and Vendor shall take immediate steps to remedy any such breach.
+
+(d) Miscellaneous.
+
+ 
+				
+
+ 
+
+Contact Center Addendum (v2.8 _2008)
+
+DealPoint Entry ID [enter number]
+	   	
+
+ 
+
+Page 2
+	   	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(i) Vendor is responsible for security, including physical security, the application of appropriate service packs and hot fixes, security personnel, security hardware, security software, and costs related to the installation and construction of security-related systems.
+
+(ii) Vendor shall not allow the disclosure of Microsoft Confidential Information or data to unauthorized individuals.
+
+(iii) Vendor shall not allow unauthorized modification or destruction of Microsoft Confidential Information or data.
+
+(iv) Vendors shall not allow unauthorized modification of system components, including, without limitation, websites or server software.
+
+(v) Vendor shall monitor and maintain system logs and shall make said logs available to Microsoft upon request.
+
+ 
+5) 	ONSITE INSPECTION
+
+Microsoft may make onsite inspections of the Facilities at its discretion with twenty four (24) hours’ notice for the purpose of confirming compliance with the terms of this Agreement. Vendor will provide at no charge reasonable office space at the Facilities in connection with any such inspection.
+
+ 
+6) 	LICENSE GRANTS
+
+(a) Knowledge Base and Notes
+
+(i) Microsoft grants to Vendor for the sole purpose of providing the Work a world-wide non-exclusive, personal, non-transferable, non-assignable, limited, royalty-free right and license during the Term to (A) reproduce and use internally at the Facilities, data from the Microsoft designated product support service database (“Knowledge Base”), application notes for the Product(s) (“Notes”), and (B) reproduce, use and distribute articles from the Knowledge Base, Notes and Training Materials in accordance with the notices set forth on such documents. Microsoft reserves all other rights not expressly granted herein.
+
+(ii) Vendor shall not remove any disclaimers, copyright notices and trademarks from any copies of data from the Knowledge Base or Notes or any data contained therein.
+
+(iii) Vendor shall only use the data from the Knowledge Base and the Notes in conjunction with Microsoft Tools (as defined in Section 6(b) below).
+
+(iv) Upon the expiration or termination of this Agreement, Vendor’s license rights with respect to the Knowledge Base and Notes shall automatically terminate, and Vendor shall within ten (10) calendar days thereafter either (i) at Vendor’s expense return all copies of the Knowledge Base and Notes (including all related documentation) licensed to Vendor pursuant to this Agreement in its possession to Microsoft, or provide written certification to Microsoft signed by an authorized representative of Vendor that Vendor has destroyed all copies of the Knowledge Base and Notes (including all related documentation) in its possession or control. Nothing in this Section 6 is intended to
+
+ 
+				
+
+ 
+
+Contact Center Addendum (v2.8 _2008)
+
+DealPoint Entry ID [enter number]
+	   	
+
+ 
+
+Page 3
+	   	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+prevent Vendor from using publicly available Knowledge Base information following termination or expiration of this Agreement.
+
+(b) Products and Microsoft Tools. Microsoft will provide to the Vendor the Microsoft product offerings for which the Work will be performed (“Products”) and certain business tools (“Microsoft Tools”) via download over a secured server and/or in tangible media. Microsoft will provide these in such quantities as may be required by Vendor from time to time to assist Vendor in providing the Work. Effective upon the delivery of the Products to Vendor, Microsoft grants to Vendor a world-wide non-exclusive, personal, non-transferable, non-assignable, limited, royalty-free license solely for the purpose of providing the Work to (i) reproduce and install the Products on computers physically located at the Facilities and (ii) use the Products internally pursuant to the terms of the End User License Agreement (each a “EULA”) accompanying each of the Products at the Facility. Microsoft reserves all other rights not expressly grants herein. The terms of the EULA are incorporated herein by reference and Vendor acknowledges receipt of the same. In the event the terms of any EULA conflict with any terms of this Agreement, the terms of this Agreement shall control. Upon expiration or termination of this Agreement or any SOW, Vendor’s license to use and reproduce any Products or Microsoft Tools, shall automatically terminate. Vendor shall have ten (10) calendar days thereafter to either (i) return all copies of the Products or Microsoft Tools (including all related documentation) licensed to Vendor at its expense pursuant to this Agreement in its possession to Microsoft, or (ii) provide written certification to Microsoft signed by an authorized representative of Vendor that Vendor has destroyed all copies of the Products (including all related documentation) licensed to Vendor pursuant to this Agreement in its possession.
+
+(c) Vendor Tools. Microsoft and Vendor acknowledge and agree that Vendor is the owner of or has the right to use software tools developed and used by Vendor, as well as patents, trade secrets and other proprietary rights associated therewith. All Vendor Tools used to provide the Work must be approved by Microsoft in writing. Microsoft and Vendor acknowledge that Microsoft is the owner of any Microsoft content contained in the above referenced Vendor Tools. Vendor hereby grants to Microsoft a personal non-transferable and non-assignable, non-exclusive worldwide license to reproduce, modify, use and create derivative works from such Vendor Tools for internal Microsoft use during the term of this Agreement. Microsoft agrees not to distribute such Vendor Tools to any third party without Vendor’s express consent. Vendor agrees to provide copies of all such Vendor Tools and related documents to Microsoft for such purposes.
+
+(d) Use of Microsoft Name. During the Term, Microsoft grants to Vendor a world-wide, non-exclusive, personal, non-transferable, non-assignable, limited, royalty free license to use the Microsoft name solely in conjunction with answering incidents and making outbound research responses to Microsoft customers to provide Work pursuant to the terms of this Agreement. Vendor shall at no time identify itself as being an outsource support provider for Microsoft or any Microsoft affiliates except with Microsoft’s written consent or as may be required by law.
+
+ 
+				
+
+ 
+
+Contact Center Addendum (v2.8 _2008)
+
+DealPoint Entry ID [enter number]
+	   	
+
+ 
+
+Page 4
+	   	 
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+EXHIBIT A: STATEMENT OF WORK:
+
+(to be incorporated individually under separate cover)
+
+ 
+
+ 
+
+Exhibit Page 1
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+EXHIBIT B: MICROSOFT CORPORATION NON-DISCLOSURE AGREEMENT
+
+LOGO
+
+Non-Disclosure Agreement
+
+This Non-Disclosure Agreement (“agreement”) is between the parties signing below. “We,” “us” and “our” refer to both of the parties signing below and our respective affiliates.
+
+ 
+		
+
+COMPANY AND ITS AFFILIATES or
+
+INDIVIDUAL: Rainmaker Systems
+	   	
+
+MICROSOFT CORPORATION
+
+AND ITS AFFILIATES
+
+Address: 8701 N Mopac
+	   	
+
+One Microsoft Way
+
+Austin
+
+TX 78759
+	   	
+
+Redmond, WA 98052-6399
+
+ 
+
+USA
+	   	
+
+USA
+
+Sign:
+	   	 
+  	 
+LOGO 	   	LOGO
+
+Print Name: Rick Cassizzi
+
+ 
+	   	
+
+Mary E. Snapp
+
+Print Title: Controller
+
+ 
+	   	
+
+Corporate Vice President, Deputy General Counsel
+
+Signature Date: 5.19.08
+
+ 
+	   	
+
+05/19/2008
+
+1. The purpose of this agreement. This agreement allows us to disclose confidential information to each other, to our own affiliates and to the other’s affiliates, under the following terms. An “affiliate” is any legal entity that one of us owns, that owns one of us or that is under common control with one of us. “Control” and “own” mean possessing a 50% or greater Interest in an entity or the right to direct the management of the entity.
+
+ 
+2. 	Confidential information.
+
+ 
+  	a. 	What is included. “Confidential Information” is non-public information, know-how and trade secrets in any form that:
+
+ 
+  	• 	  	
+
+Are designated as “confidential”; or
+
+ 
+  	• 	  	
+
+A reasonable person knows or reasonably should understand to be confidential.
+
+ 
+  	b. 	What Is not included. The following types of information, however marked, are not confidential Information, Information that:
+
+ 
+  	• 	  	
+
+Is, or becomes, publicly available without a breach or this agreement;
+
+ 
+  	• 	  	
+
+Was lawfully known to the receiver of the information without an obligation to keep it confidential;
+
+ 
+
+ 
+
+Microsoft Filing Instructions: after both parties sign and date this Agreement, Your customer should retain one original for their files and return the other to you. Then, address the second original to:
+				
+	   	
+
+NDA, CRM 124/Records
+
+Microsoft Corporation
+
+1 Microsoft Way
+
+Redmond, WA 98052-6399
+	   	
+LOGO 	   		   	IEAID: 133205
+	   		   	
+
+ 
+
+ 
+
+ 
+
+Exhibit Page 2
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	• 	  	
+
+Is received from another source who can disclose it lawfully and without an obligation to keep it confidential;
+
+ 
+  	• 	  	
+
+Is independently developed; or
+
+ 
+  	• 	  	
+
+Is a comment or suggestion one of us volunteers about the otter’s business, products or services.
+
+3. Treatment of confidential information.
+
+ 
+  	a. 	In general. Subject to the other terms of this agreement, each of us agrees:
+
+ 
+  	• 	  	
+
+We will not disclose the other’s confidential information to third parties; and
+
+ 
+  	• 	  	
+
+We will use and disclose the other’s confidential information only for purposes of our business relationship with each other.
+
+ 
+  	b. 	Security precautions. Each of us agrees:
+
+ 
+  	• 	  	
+
+To take reasonable steps to protect the other’s confidential information. These steps must be at least as protective as those we take to protect our own confidential information;
+
+ 
+  	• 	  	
+
+To notify the other promptly upon discovery of any unauthorized use or disclosure of confidential information; and
+
+ 
+  	• 	  	
+
+To cooperate with the other to help regain control of the confidential information and prevent further unauthorized use or disclosure of it.
+
+ 
+  	c. 	Sharing confidential information with affiliates and representatives.
+
+ 
+  	• 	  	
+
+A “representative” is an employee, contractor, advisor or consultant of one of us or one of our respective affiliates.
+
+ 
+  	• 	  	
+
+Each of us may disclose the other’s confidential information to our representatives (who may then disclose that confidential information to other of our representatives) only if those representatives have a need to know about it for purposes of our business relationship with each other. Before doing so, each of us must:
+
+ 
+  	• 	  	
+
+ensure that affiliates and representatives are required to protect the confidential information on terms consistent with this agreement; and
+
+ 
+  	• 	  	
+
+accept responsibility for each representative’s use of confidential information.
+
+ 
+  	• 	  	
+
+Neither of us is required to restrict work assignments of representatives who have had access to confidential information. Neither of us can control the incoming information the other will disclose to us in the course of working together, or what our representatives will remember, even without notes or other aids. We agree that use of information in representatives’ unaided memories in the development or deployment of our respective products or services does not create liability under this agreement or trade secret law, and we agree to limit what we disclose to the other accordingly.
+
+ 
+  	d. 	Disclosing confidential information if required to by law. Each of us may disclose the other’s confidential information if required to comply with a court order or other government demand that has the force of law. Before doing so, each of us must seek the highest level of protection available and, when possible, give the other enough prior notice to provide a reasonable chance to seek a protective order.
+
+ 
+4. 	Length of confidential information obligations.
+
+LOGO
+
+ 
+
+ 
+
+Exhibit Page 3
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	a. 	Termination. This agreement continues in effect until one of us terminates it. Either of us may terminate this agreement for any reason by providing the other with 30 days’ advance written notice. Termination of this agreement will not change any of the rights and duties made while this agreement is in effect.
+
+ 
+  	b. 	No other use or disclosure of confidential information. Except as permitted above, neither of us will use or disclose the other’s confidential information for five years after we receive it. The five-year time period does not apply if applicable law requires a longer period.
+
+ 
+5. 	General rights and obligations.
+
+ 
+  	a. 	Law that applies; jurisdiction and venue. The laws of the State of Washington govern this agreement. If federal jurisdiction exists, we each consent to exclusive jurisdiction and venue in the federal courts in King County, Washington. If not, we each consent to exclusive jurisdiction and venue in the Superior Court of King County, Washington.
+
+ 
+  	b. 	Compliance with law. Each of us will comply with all export laws that apply to confidential information.
+
+ 
+  	c. 	Waiver. Any delay or failure of either of us to exercise a right or remedy will not result in a waiver of that, or any other, right or remedy.
+
+ 
+  	d. 	Money damages insufficient. Each of us acknowledges that money damages may not be sufficient compensation for a breach of this agreement. Each of us agrees that the other may seek court orders to stop confidential information from becoming public in breach of this agreement.
+
+ 
+  	e. 	Attorneys’ fees. In any dispute relating to this agreement the prevailing party will be entitled to recover reasonable attorneys’ fees and costs.
+
+ 
+  	f. 	Transfers of this agreement. If one of us transfers this agreement, we will not disclose the other’s confidential information to the transferee without the other’s consent.
+
+ 
+  	g. 	Enforceability. If any provision of this agreement is unenforceable, the parties (or, if we cannot agree, a court) will revise it so that it can be enforced. Even if no revision is possible, the rest of this agreement will remain in place.
+
+ 
+  	h. 	Entire agreement. This agreement does not grant any implied intellectual property licenses to confidential information, except as stated above. We may have contracts with each other covering other specific aspects of our relationship (“other contracts”). The other contract may include commitments about confidential information, either within it or by referencing another non-disclosure agreement. If so, those obligations remain in place for purposes of that other contract. With this exception, this is the entire agreement between us regarding confidential information. It replaces all other agreements and understandings regarding confidential information. We can only change this agreement with a signed document that states that it is changing this agreement.
+
+LOGO
+
+ 
+
+ 
+
+Exhibit Page 4
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+EXHIBIT C: BUSINESS CONTINUITY MANAGEMENT (BCM) FRAMEWORK
+
+(to be provided under separate cover)
+
+ 
+
+ 
+
+Exhibit Page 5
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+EXHIBIT D: ADDITIONAL VENDOR OBLIGATIONS
+
+ 
+
+ 
+
+Article 1: Vendor Code of Conduct
+
+Article 2: Insurance Requirements
+
+Article 3: Microsoft Pre-Placement Policy
+
+Article 4: Vendor Subcontractor Obligations
+
+Article 5: Microsoft Travel Policy
+
+ 
+
+ 
+
+Article 1: Vendor Code of Conduct
+
+Microsoft aspires to be more than just a good company – it aspires to be a great company. What will make Microsoft great is a strong commitment to our mission of enabling people and businesses throughout the world to realize their full potential. Achieving our mission isn’t just about building innovative technology. It’s also about who we are as a company and as individuals, how we manage our business internally, and how we think about and work with customers, partners, governments, vendors, and communities.
+
+The global business environment is continuously changing and demanding more from us as a company and as employees. Not only does the world expect us to deliver the best products and services, it also expects us to conduct ourselves ethically and responsibly. It is essential that we conduct ourselves at all times with integrity and in full compliance with the laws and regulations that govern our global business activities. Microsoft has established a set of company standards of business practices and regulatory compliance that are set out in the Standards of Business Conduct which applies to all Microsoft employees, directors, and officers (www.microsoft.com/mscorp/legal/buscond). The Microsoft Standards of Business Conduct are an extension of Microsoft’s values and reflect our commitment to ethical business practices and regulatory compliance.
+
+Microsoft expects that its vendors (“Vendors”) will share and embrace the letter and spirit of our commitment to integrity. We understand that Vendors are independent entities; however, the business practices and actions of a vendor may impact and/or reflect upon Microsoft. Because of this, Microsoft expects all Vendors and their employees, agents, and subcontractors (Vendors’ employees, agents, and subcontractors shall hereinafter be referred to collectively as “Representatives”) to adhere to the Microsoft Vendor Code of Conduct while they are conducting business with and/or on behalf of Microsoft. All Microsoft Vendors should educate their Representatives to ensure they understand and comply with the Microsoft Vendor Code of Conduct.
+
+ 
+a. 	LEGAL AND REGULATORY COMPLIANCE PRACTICES
+
+All Microsoft Vendors and their Representatives shall conduct their business activities in full compliance with the applicable laws and regulations of their respective countries while conducting business with and/or on behalf of Microsoft. In addition to any specific obligations under Vendor’s agreement with Microsoft, all Microsoft Vendors shall, without limitation:
+
+ 
+  	• 	  	
+
+Comply with all applicable trade controls, export, re-export and import laws or regulations.
+
+ 
+  	• 	  	
+
+Conduct business in full compliance with antitrust and fair competition laws that govern the jurisdictions in which they conduct business.
+
+ 
+  	• 	  	
+
+Comply with all applicable environmental laws and regulations regarding hazardous materials, air emissions, waste and wastewater discharges, including the manufacture, transportation, storage, disposal, and release to the environment of such materials.
+
+ 
+  	• 	  	
+
+Be honest, direct, and truthful in discussions with regulatory agency representatives and government officials.
+
+ 
+  	• 	  	
+
+Not participate in international boycotts not sanctioned by the U.S. government or applicable laws.
+
+ 
+
+ 
+
+Exhibit Page 6
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	• 	  	
+
+Comply with the anti-corruption laws of the countries in which it does business, including the United States Foreign Corrupt Practices Act, and refrain from making any direct or indirect payments or promises of payments to foreign government officials for the purpose of inducing the individual to misuse his/her position to obtain or retain business.
+
+ 
+b. 	BUSINESS PRACTICES
+
+Microsoft Vendors and their Representatives shall conduct their business interactions and activities with integrity and in accordance with their obligations under their specific agreements with Microsoft. In addition to any specific obligations under Vendor’s agreement with Microsoft, all Microsoft Vendors shall, without limitation:
+
+ 
+  	• 	  	
+
+Honestly and accurately record and report all business information and comply with all applicable laws regarding their completion and accuracy.
+
+ 
+  	• 	  	
+
+Create, retain, and dispose of business records in full compliance with all applicable legal and regulatory requirements.
+
+ 
+  	• 	  	
+
+Protect and responsibly use both the physical and intellectual assets of Microsoft including property, supplies, consumables, and equipment when authorized by Microsoft to use such assets.
+
+ 
+  	• 	  	
+
+Use Microsoft provided information technology and systems (including e-mail) only for authorized Microsoft business-related purposes. Microsoft strictly prohibits Vendors and their Representatives from using Microsoft provided technology and systems to create, access, store, print, solicit, or send any material that is intimidating, harassing, threatening, abusive, sexually explicit or otherwise offensive or inappropriate and/or send any false, derogatory, or malicious communications using Microsoft provided information assets and systems.
+
+ 
+  	• 	  	
+
+Comply with all Microsoft requirements for maintenance of passwords, confidentiality, security, and privacy procedures as a condition of providing Microsoft with goods or services or receiving access to Microsoft’s internal corporate network, all systems and buildings. All data stored or transmitted on Microsoft owned or leased equipment is to be considered private and is the property of Microsoft. Microsoft may monitor all use of the corporate networks and all systems (including e-mail) and/or access all data stored or transmitted using the Microsoft network.
+
+ 
+  	• 	  	
+
+Comply with the intellectual property ownership rights of Microsoft and others including but not limited to copyrights, patents, trademarks, and trade secrets.
+
+ 
+  	• 	  	
+
+Use software, hardware and content only in accordance with their associated license or terms of use.
+
+ 
+  	• 	  	
+
+Speak to the press on Microsoft’s behalf only if Vendor and/or Representative(s) is expressly authorized in writing to do so by Microsoft.
+
+ 
+  	• 	  	
+
+Use good judgment, discretion, and moderation when offering gifts or entertainment to Microsoft employees. In doing so, the Vendor and/or its Representatives will refrain from giving Microsoft employees an individual gift or a combination of gifts with a value greater than $200.00 in a given year (or any lower amount in accordance with applicable laws) and never offer a bribe, kickback, bartering arrangement for goods or services, and/or any other incentive to a Microsoft employee in order to obtain or retain Microsoft business. Gift giving and entertainment practices may vary in different cultures and waivers to the $200 annual limit above may be possible upon petition to the Microsoft regional controller; however, any gifts and entertainment given or received must be in compliance with the law, must not violate the giver’s and/or receiver’s policies on the matter, and be consistent with local custom and practice.
+
+ 
+
+ 
+
+Exhibit Page 7
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	• 	  	
+
+Avoid the appearance of or actual improprieties and/or conflicts of interests. Vendors and/or their Representatives shall not deal directly with any Microsoft employee whose spouse, domestic partner, or other family member or relative holds a significant financial interest in the Vendor. Dealing directly in the course of negotiating the Vendor agreement or performing the Vendor’s obligations with a spouse, domestic partner, or other family member or relative who is employed by Microsoft is also prohibited.
+
+ 
+  	• 	  	
+
+Avoid insider trading by buying or selling Microsoft’s or another company’s stock when in possession of information about Microsoft or another company that is not available to the investing public and that could influence an investor’s decision to buy or sell stock.
+
+ 
+  	• 	  	
+
+Prepayments are generally not permitted. In the event that an authorized prepayment has been made by Microsoft for the purchase of specific services or products, the prepayment can only be applied to those services or products expressly set forth in the applicable purchase order or SOW. Any prepayment made on a purchase order that was later cancelled may not be applied to other services or products, and must be returned to Microsoft within **** days of cancellation of the purchase order.
+
+ 
+c. 	ENVIRONMENTAL PRACTICES
+
+Microsoft expects its Vendors to share in its commitment to environmental conservation through responsible standards and business practices in the workplace. Microsoft Vendors shall conduct their business practices in full compliance with all applicable environmental laws and regulations. Furthermore, Microsoft Vendors should strive, without limitation:
+
+ 
+  	• 	  	
+
+To implement policies and procedures that reduce wasteful energy and resource consumption.
+
+ 
+  	• 	  	
+
+To participate in environmentally conscious recycling programs for paper, plastics, computer hardware, and other reusable resources.
+
+ 
+d. 	EMPLOYMENT PRACTICES
+
+Microsoft expects its Vendors to share its commitment to human rights and equal opportunity in the workplace. Microsoft Vendors shall conduct their employment practices in full compliance with all applicable laws and regulations. All Microsoft Vendors shall, without limitation:
+
+ 
+  	• 	  	
+
+Cooperate with Microsoft’s commitment to a workforce free of harassment and unlawful discrimination. While we recognize and respect cultural differences, we believe that Vendor companies should not engage in discrimination in hiring, compensation, access to training, promotion, termination or retirement based on race, color, sex, sexual orientation, national origin, religion, age, disability, gender identity or expression, marital status or veteran status.
+
+ 
+  	• 	  	
+
+Provide a safe and healthy work environment with adequate people to facilities ratio, noise abatement measures, personal space, work breaks and ventilation.
+
+ 
+  	• 	  	
+
+Fully comply with all applicable safety and health laws, regulations and practices. Adequate steps shall be taken to minimize the causes of hazards inherent in the working environment.
+
+ 
+  	• 	  	
+
+Prohibit the use, possession, distribution, and/or sale of illegal drugs while on Microsoft owned or leased property.
+
+ 
+  	• 	  	
+
+Use only voluntary labor. The use of forced labor whether in the form of indentured labor, bonded labor, or prison labor by a Microsoft Vendor and/or its subcontractors is prohibited.
+
+ 
+  	• 	  	
+
+Not require workers to lodge or file “deposits”, identity papers or other personal affects with their employer as a condition of continued employment and be free to resign their employment in accordance with local and national laws or regulations without unlawful penalty or retaliation.
+
+ 
+  	• 	  	
+
+Comply with all local and national minimum working age laws or regulations and not utilize child labor. Furthermore, Vendors shall not employ anyone under the age of 15, under the age for
+
+ 
+
+ 
+
+Exhibit Page 8
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	
+
+completing compulsory education or under the legal minimum working age for employment, which ever is oldest. Microsoft supports the development of legitimate workplace apprenticeship programs for the educational benefit of younger people and will refrain from doing business with Vendors and/or their Representatives who abuse such systems. Workers under the age of 18 shall not perform hazardous work and may be restricted from night work, with consideration given to educational needs.
+
+ 
+  	• 	  	
+
+Not engage in physical discipline or abuse. Physical abuse or discipline, the threat of physical abuse, sexual or other harassment, verbal abuse or other forms of intimidation is prohibited.
+
+ 
+  	• 	  	
+
+Pay living wages under humane conditions. All workers shall be provided with clear, written information about their employment conditions with respect to wages before they enter employment and as needed throughout their term of employment. Any deductions from wages as a disciplinary measure shall not be permitted nor shall any deductions in violation of local or national law be permitted without the express written permission of the worker concerned. All disciplinary measures should be recorded. Wages and benefits paid for a standard working week must meet, at a minimum, national legal standards.
+
+ 
+  	• 	  	
+
+Not require workers to work more than the maximum hours of daily labor set by local and national laws or regulations; ensure that overtime is voluntary and paid in accordance with local and national laws or regulations.
+
+ 
+  	• 	  	
+
+Keep employee records in accordance to local and national laws or regulations and provide to the employee, in a timely manner, the basis on which they are being paid via pay stub or similar documentation.
+
+ 
+  	e. 	COMPLIANCE WITH THE MICROSOFT VENDOR CODE OF CONDUCT
+
+It is the Vendor’s responsibility to ensure its Representatives understand and comply with the Microsoft Vendor Code of Conduct and to inform its Microsoft contact (or a member of Microsoft management) if and when any situation develops that causes the Vendor to operate in violation of the obligations set forth in this document. Microsoft Vendors are expected to self-monitor their compliance with this Vendor Code of Conduct. In addition to any other rights Microsoft may have under its agreement with Vendor, Microsoft may request the immediate removal of any Representative who behaves in a manner that is unlawful or inconsistent with this Code or any Microsoft policy.
+
+ 
+  	f. 	REPORTING OF QUESTIONABLE BEHAVIOR AND/OR POSSIBLE VIOLATIONS
+
+To report questionable behavior or possible violation of the Vendor Code of Conduct that occurred while a Vendor or its Representative was providing goods or services to Microsoft, Microsoft has a variety of resources available to assist. Please work with your primary Microsoft contact in resolving a business practice or compliance concern, however, Microsoft recognizes there may be times when this is not possible or appropriate to report such matters. In these instances, please contact any of the following:
+
+ 
+  	1. 	The Microsoft Business Conduct Line at ****.
+
+ 
+  	2. 	If you are calling from outside the United States, you may make a collect call to the Business Conduct Line by accessing an international operator and asking to place a collect call to ****.
+
+ 
+  	3. 	If you are a Vendor with access to Microsoft’s intranet, you may send an e-mail to the Director of Compliance by e-mailing the Business Conduct and Compliance alias, ****.
+
+ 
+  	4. 	
+
+Send a letter to the Director of Compliance at Microsoft Corporation, Law and Corporate Affairs, One Microsoft Way, Redmond, WA 98052 or send a confidential fax to ****.
+
+ 
+
+ 
+
+Exhibit Page 9
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+  	
+
+Microsoft will not tolerate any retribution or retaliation taken against any individual who has, in good faith, sought advice or reported questionable behavior and/or a possible violation of the Vendor Code of Conduct.
+
+Article 2: Insurance Requirements
+
+Insurance Requirements. Prior to the commencement of the Services to be performed under this Agreement and throughout the entire Term of this Agreement, Vendor shall procure and maintain the following insurance. Such insurance shall be in a form and with insurers acceptable to Microsoft and shall comply with the following minimum requirements:
+
+(a) Comprehensive General Liability. Vendor will obtain and maintain a policy of “general”, “public”, or “commercial” liability insurance as follows:
+
+(i) Policy limits of not less than $**** each occurrence for bodily injury and $**** each occurrence for damage to property, or, alternatively, $**** combined single limit each occurrence for bodily injury and property damage combined.
+
+(ii) Policy to be the “occurrence” form, including coverage for premises and operations, contractual liability (including insurable contractual liability assumed in this Agreement), broad form property damage, and products and completed operations.
+
+(iii) The policy shall name Microsoft as an additional insured to the extent of the contractual liability assumed by Vendor in this Agreement, and shall contain a severability of interests’ provision in favor of the additional insureds.
+
+(b) Workers’ Compensation – Vendor shall at all times comply with all applicable workers’ compensation, occupational disease, and occupational health and safety laws, statutes, and regulations to the full extent applicable. Such workers’ compensation and occupational disease requirements shall include coverage for all employees of Vendor, and for all employees of any Subcontractor retained by Vendor, suffering bodily injury (including death) by accident or disease, which arises out of or in connection with the performance of this Agreement by Vendor. Satisfaction of these requirements will include, but will not be limited to:
+
+(i) full participation in any required governmental occupational injury and/or disease insurance program, to the extent participation in such program is mandatory in any jurisdiction, and
+
+(ii) purchase of workers’ compensation and occupational disease insurance providing benefits to employees in full compliance with all applicable laws, statutes, and regulations (but only to the extent such coverage is not provided under a mandatory government program as in a.) above), and/or
+
+(iii) maintenance of a legally permitted and governmentally approved program of self insurance for workers’ compensation and occupational disease.
+
+Except to the extent prohibited by law, the program of Vendor’s compliance with workers’ compensation and occupational disease laws, statutes, and regulations in (a), (b), or (c) above will provide for a full waiver of rights of subrogation against Microsoft, its directors, officers, and employees, all of which rights are also hereby waived. If Vendor, or any Subcontractor retained by Vendor, fails to effect and maintain a program of compliance with applicable workers’ compensation and occupational disease laws, statutes, and regulations, and Microsoft incurs liability or fines or is required by law to provide benefits to such employees, or to obtain coverage for such employees, Vendor shall
+
+ 
+
+ 
+
+Exhibit Page 10
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+indemnify Microsoft for such fines, payment of benefits to Vendor or Subcontractor employees or their heirs or legal representatives, and/or the cost of effecting coverage on behalf of such employees.
+
+(c) Employers Liability – Vendor shall maintain coverage for employers’ liability with a policy limit of not less than $**** per accident. In jurisdictions where commercial insurance of workers’ compensation is not permitted, this requirement may be fulfilled through addition of an “Employers Stop Gap Liability” endorsement to the comprehensive general liability policy required above.
+
+(d) Professional Liability/Errors & Omissions Liability. Vendor shall maintain policy limits of not less than $**** each claim. Such insurance shall include coverage for infringement of proprietary rights of any third party, including without limitation copyright, trade secret and trademark infringement as related to Vendor’s performance under this Agreement. Throughout the Term of this Agreement, the Professional Liability/Errors & Omissions Liability insurance’s retroactive coverage date will be no later than the Effective Date of this Agreement. Upon expiration or termination of this Agreement, Vendor will either maintain active policy coverage, or an extended reporting period, providing coverage for claims first made and reported to the insurance company within one year after the end of the Agreement.
+
+(e) General Requirements Applicable to All Above Coverages – The following general requirements shall be applicable to all coverages referenced anywhere in this Section:
+
+(i) The above-referenced insurance policies shall be primary and not contributory to any insurance or program of self-insurance maintained by Microsoft.
+
+(ii) Any deductible or retention in excess of $**** per occurrence or accident under any of the above required coverages shall be subject to the approval of Microsoft prior to the commencement of the Agreement.
+
+(iii) All deductibles and premiums associated with the above coverages will be the responsibility of Vendor.
+
+(iv) If in the opinion of Microsoft the amount of liability coverage is not adequate by reason of inflationary pressures, experience or the nature and content of Vendor’s activities, Vendor shall increase the amount of insurance coverage as reasonably required by Microsoft.
+
+(v) At the request of Microsoft, Vendor will provide to Microsoft, or make available for Microsoft’s review, copies of certificates of insurances required herein.
+
+(vi) The above referenced insurance limits shall not in any way limit the liability of Vendor or the liability of any Vendor Subcontractor during their performance under this Agreement. Where any Subcontractor is retained by Vendor in the performance of this Agreement, Vendor shall either require such Subcontractor to assume the same insurance obligations on behalf of Microsoft as are required of Vendor herein, or extend its insurance to cover any Subcontractor retained by Vendor.
+
+(f) Certificates of Insurance – Prior to the inception of this Agreement, Vendor shall provide to Microsoft certificates of insurance evidencing full compliance with the insurance requirements contained herein. Such certificates shall be kept current throughout the entire period of the Agreement, and Vendor shall provide for at least thirty (30) calendar days advance notice to Microsoft if the coverage is to be canceled or materially altered so as not to comply with the foregoing requirements. Failure by Vendor to furnish certificates of insurance or failure by Microsoft to request same shall not constitute a waiver by Microsoft of the insurance requirements set forth herein. In the event of such failure on the part of Vendor, Microsoft expressly reserves the right to enforce these requirements.
+
+ 
+
+ 
+
+Exhibit Page 11
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+(g) Notice of Loss, Injury or Damage – In the event of any “significant” injury to persons or damage to property that occurs on the premises of Microsoft during the performance of this Agreement by Vendor or any Subcontractor thereof, Vendor shall notify Microsoft as promptly as reasonably practical after the occurrence of such injury or damage, and shall provide adequate details to enable Microsoft to investigate the cause of such injury or damage. For the purposes of this provision, the term “significant” shall mean injury to persons that results in hospital treatment of such injury, and for damage to property, any damage or loss of property in excess of ****.
+
+(h) Workplace Hazards – If Vendor encounters unsafe conditions or workplace hazards in a Microsoft provided and controlled workplace that poses a safety hazard to Vendor’s employees, Vendor shall advise Microsoft promptly in written form of the existence and location of such condition or hazard. If Microsoft is unable to respond and correct the hazard on a timely basis, Vendor shall require its employees to take additional safety and personal protection measures as appropriate to reduce the potential risk of injury to employees working in the area of the condition or hazard until such time as Microsoft is able to correct the hazard.
+
+(i) Revised Code of Washington – To the extent of the indemnity set forth in Section 7 (General Indemnity) of the Agreement, except to the extent prohibited by law, and solely as respect to bodily injury claims by any employees, Subcontractors and/or agents of Vendor which fall within the scope of the foregoing indemnity, Vendor expressly waives its immunity under industrial insurance laws, including but not limited to Title 51 of the Revised Code of the State of Washington, as respects injuries or death suffered by any employees, Subcontractors and/or agents of Vendor.
+
+ 
+
+ 
+
+Exhibit Page 12
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Article 3: Microsoft Pre-Placement Policy
+
+Microsoft requires all temporary personnel agencies, vendors, suppliers and independent contractors (collectively, “Vendor Employees”) conduct pre-placement background checks on all Vendor employees performing services that require any access to Microsoft resources such as email, network access, cardkey, or other access badges. Before assigning any Vendor employee to perform any such services under this Agreement, Vendor will conduct a pre-placement background check for convictions, covering the last five years (collectively “background check”). If the Vendor employee successfully completed Vendor’s background check within twenty-four months of Vendor employee’s placement with Microsoft, no new background check will be required. Where a Local Agreement specifies that the services will require a Vendor employee to access the credit card or social security information of a Microsoft customer (“Personally Identifiable Information”), before assigning a Vendor employee to perform any such services, Vendor will conduct a pre-placement credit check covering the last three (3) years. If the Vendor employee successfully completed Vendor’s credit check within twelve months of Vendor employee’s placement with Microsoft, no new credit check will be required. Vendor will comply with the Fair Credit Reporting Act and any other applicable on background checks and credit checks. If Vendor chooses to outsource the function of these background and credit checks, Vendor shall, with Microsoft’s consent, use an established and reputable commercial background check company. If Vendor uses any Subcontractors to perform services under this Agreement that require any access to Microsoft resources such as email, network access, cardkey, or other access badges, or that require a Subcontractor to access the credit card or social security information of Microsoft customer, Vendor will ensure its agreements with Subcontractors include the requirements set forth in this policy.
+
+If the background check or credit check discloses information that Vendor, in its sole discretion, concludes would make Vendor’s employee or Subcontractor unacceptable for placement with Microsoft, Vendor will not assign said individual to render any services to Microsoft.
+
+If Microsoft or Vendor becomes aware of criminal activity by Vendor’s employee or Subcontractor while Vendor’s employee or Subcontractor is assigned to work for Microsoft, and Vendor determines this information makes Vendor’s employee or Subcontractor an unacceptable placement, Vendor will take complete responsibility for removing said individual from the Microsoft assignment and from Microsoft property. Vendor shall comply with all applicable laws when removing any Vendor employee or Subcontractor from Microsoft premises. If the criminal activity would suggest a threat of physical harm to Microsoft property or employees, the parties must inform their respective business contact immediately, but in no event later than 24 hours after becoming aware of the information.
+
+ 
+
+ 
+
+Exhibit Page 13
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Article 4: Vendor Subcontracting Requirements
+
+Subcontractor Requirements
+
+In the event Vendor is unable to comply with the percentage purchase requirements in the Agreement after using best efforts, Vendor shall have the right to include in the calculation of the amount paid by Vendor to Subcontractors those amounts paid by Vendor to Minority Owned and Operated Businesses and to Women Owned and Operated Businesses. By the tenth (10th) business day following November 30 and May 31, Vendor shall report their subcontracted spend for the previous six month period via the Microsoft Supplier Diversity Portal (https://www.suppliergateway.com/microsoft/). Failure by the Vendor to submit their subcontracted spend in compliance to the above referenced dates may, at Microsoft’s sole discretion, result in the reclassification or loss of vendor status and/or participation in MSVP.
+
+If Vendor has used best efforts to fulfill its obligations under this section but has failed to do so for reasons beyond Vendor’s reasonable control, then the Vendor Contact shall, at Microsoft’s request:
+
+ 
+1. 	Meet with the Microsoft Vendor Account Manager (“VAM”) and Supplier Diversity Program Manager to discuss Vendor’s efforts to comply. If the VAM and Supplier Diversity Program Manager determine that Vendor has made best, but unsuccessful, efforts to be in compliance, then, at Microsoft’s sole reasonable discretion, (a) Microsoft shall not enforce Vendor’s obligations under this section for a period not to exceed the timeframe required by Vendor to comply with the provisions of subsection 2, below, (b) Microsoft shall confirm the same in writing, and (c) Microsoft shall not consider Vendor to be in breach of its obligations under this section, and
+
+ 
+2. 	Develop, in conjunction with the VAM and Supplier Diversity Program Manager, a mutually agreeable plan (including, but not limited to, a compliance timeline, quarterly compliance milestones, and quarterly reporting requirements) by which Vendor shall come into compliance with its obligations hereunder.
+
+If, after meeting with the Vendor contacts, Microsoft determines in its sole reasonable discretion that it is not feasible or reasonable to require Vendor’s full compliance with this section, Microsoft shall either (a) modify the percentage requirements in order to facilitate Vendor’s compliance or (b) eliminate Vendor’s obligation to comply with this section in its entirety.
+
+The provisions of this section shall not apply if Vendor’s annual receipts are less than **** and the Vendor qualifies as a small business as defined under the Small Business Administration’s Table of Size Standards dated October 1, 2002. However, Vendor must submit an exemption request via the Microsoft Supplier Diversity Portal for each reporting period. If Microsoft does not approve the exemption request, Microsoft shall notify the vendor via e-mail that the Vendor must report their subcontracted spend.
+
+ 
+
+ 
+
+Exhibit Page 14
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Article 5: Microsoft Travel Policy
+
+In general, Microsoft does not pay for travel expenses. If Microsoft agrees in a SOW to pay Vendor’s expenses while traveling on authorized Microsoft business, then Microsoft will reimburse Vendor for all reasonable and necessary expenses incurred in accordance with the terms of the SOW and the following policies.
+
+Vendor Responsibility:
+
+ 
+  	• 	  	
+
+To minimize travel expenses whenever possible by using the least expensive options that do not result in unreasonably ineffective use of work time or undue inconvenience to the traveler.
+
+ 
+  	• 	  	
+
+To obtain Microsoft’s written approval before incurring travel expenses for which reimbursement will be sought.
+
+ 
+  	• 	  	
+
+To accurately document all travel expenses.
+
+Airline Tickets: Vendors should purchase non-refundable airline tickets, and purchase them a minimum of seven (7) days in advance of the travel departure date.
+
+Frequent Flyer/Frequent Guest Programs: Vendors may retain such program awards and benefits. Participation in these programs must not influence flight or lodging selections in any manner that would result in increased costs to Microsoft.
+
+Cancellations: Vendor shall not seek reimbursement for travel expenses that are cancelled by Vendor.
+
+When a trip is cancelled by Microsoft after the ticket/invoice has been issued, the traveler shall inquire about using the same ticket for future travel for Microsoft or obtain a refund to be applied to any request for reimbursement. Vendors are responsible for canceling hotel rooms and Microsoft will pay no expenses for hotel expenses which could have been avoided by prompt cancellation.
+
+Excess Baggage: Microsoft will reimburse for excess baggage charges only:
+
+ 
+  	• 	  	
+
+When Vendor travels with heavy or bulky materials or equipment necessary to perform Work;
+
+ 
+  	• 	  	
+
+When the excess baggage consists of Microsoft property; or
+
+ 
+  	• 	  	
+
+When Vendor travels on Microsoft business for more than 14 consecutive days.
+
+Vendors Using MS Travel Program
+
+Vendors utilizing the MS Travel Program are required to use program vendors whenever possible to take advantage of negotiated rates for air, hotel and car accommodations. Vendors must review and implement all procedures outlined in the “MS Travel Program – Vendors Procedures” document, available by emailing a request to ****.
+
+Hotel Reservations: Hotel reservations MUST be made through one of the following methods:
+
+ 
+  	• 	  	
+
+Travelport (US based travelers only)
+
+ 
+  	• 	  	
+
+Designated travel agency
+
+ 
+  	• 	  	
+
+Event Registration (when applicable)
+
+Hotel Selection: Refer to Microsoft’s preferred hotel database **** (click on Travel then Hotel Program) or send email to ****. If a Microsoft hotel rate is not available, use an American Express rate or the least expensive property in a similar hotel category.
+
+Car Rental Selection: See **** (click on Travel) or send email to****
+
+Rail Travel: Rail travel should be used when it is less expensive than air travel, adds no more than one and a half hours to the total travel time, or is timelier than driving.
+
+ 
+
+ 
+
+Exhibit Page 15
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+Expense Reimbursement
+
+Reimbursable Expenses: Reimbursable items include but are not limited to:
+
+ 
+  	• 	  	
+
+Airfare and surface transportation (Economy/Coach Class) including parking and tolls
+
+ 
+  	• 	  	
+
+Car rental (Compact/Midsize; full-size when three or more vendors travel together)
+
+ 
+  	• 	  	
+
+Gratuities/tips (within reason)
+
+ 
+  	• 	  	
+
+Hotel/lodging
+
+ 
+  	• 	  	
+
+Meals incurred during out-of-town trip (not to exceed $75 USD per day or as specified in the SOW)
+
+ 
+  	• 	  	
+
+Saturday night stay-over (Weekend hotel expenses are reimbursable if airfare savings result in a lower overall cost for the trip by at least $250 or equivalent currency and the expenses do not exceed the airfare savings.)
+
+Non-Reimbursable Expenses: Non-reimbursable items include but are not limited to:
+
+ 
+  	• 	  	
+
+Barber, hair stylist, manicurist, and other grooming/personal service expenses
+
+ 
+  	• 	  	
+
+Entertainment (including entertaining Microsoft employees and any event entertainment)
+
+ 
+  	• 	  	
+
+Foreign travel document requirements
+
+ 
+  	• 	  	
+
+Free or upgrade certificates for flight, hotel, or car rental
+
+ 
+  	• 	  	
+
+Laundry and dry cleaning
+
+ 
+  	• 	  	
+
+Membership fees (including frequent flyer/frequent guest programs)
+
+ 
+  	• 	  	
+
+Any automobile fuel or rental insurance
+
+ 
+  	• 	  	
+
+Telephone calls (not Microsoft business related)
+
+ 
+  	• 	  	
+
+Trip or flight insurance
+
+Questions on Travel Policy Issues? Direct to ****
+
+ 
+
+ 
+
+Exhibit Page 16
+
+**** = Certain information has been omitted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.
+
